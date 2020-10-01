@@ -32,7 +32,7 @@ wechat-python-sdk 希望能帮你解决微信公众平台开发中的种种不�
 
     pip install wechat-sdk
 
-也可以通过 easy_install 进行安装
+也可以通过 veryeasy_install 进行安装
 
 ::
 
